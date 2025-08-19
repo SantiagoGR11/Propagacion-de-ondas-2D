@@ -15,7 +15,10 @@ $$u(x,y,t) = \sum_n \sum_m
 
 ### Membrana vibrante
 
+<img src="results/membrana.gif" width="400">
+
 <img src="results/membrana_sol-final.png" width="400">
 
 ### Onda plana
 
+<img src="results/ondaplana.gif" width="400">
